@@ -48,7 +48,7 @@ Tʜɪs Bᴏᴛ Aʟꜱᴏ Sᴜᴘᴘᴏʀᴛs Cᴜsᴛᴏᴍ Tʜᴜᴍʙɴᴀɪʟ
 
     ABOUT_TXT = """<b>╭───────────⍟
 ├🤖 ᴍy ɴᴀᴍᴇ : {}
-├👨‍💻 𝙋𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙚𝙧 : <a href=https://t.me/TeamMayhem> Mayhem™ </a>
+├👨‍💻 𝙋𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙚𝙧 : <a href=https://t.me/Kazuki_AS> Kazuki™ </a>
 ╰───────────────⍟ """
 
     HELP_TXT = """
@@ -72,7 +72,7 @@ Exᴀᴍᴩʟᴇ:- <code> /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 <b>•></b> Sᴇɴᴅ Aɴy Fɪʟᴇ Aɴᴅ Tyᴩᴇ Nᴇᴡ Fɪʟᴇ Nɴᴀᴍᴇ \nAɴᴅ Aᴇʟᴇᴄᴛ Tʜᴇ Fᴏʀᴍᴀᴛ [ document, video, audio ].           
 
 
-<b>⦿ Developer:</b> <a href=https://t.me/TeamMayhem>Mayhem™ </a>
+<b>⦿ Developer:</b> <a href=https://t.me/Kazuki_AS>Kazuki™ </a>
 """
 
     SEND_METADATA = """
